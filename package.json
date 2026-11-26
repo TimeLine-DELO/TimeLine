@@ -32,7 +32,7 @@
 		"@tailwindcss/aspect-ratio": "0.4.2",
 		"@tailwindcss/forms": "0.5.11",
 		"@tailwindcss/typography": "0.5.20",
-		"astro": "7.4.12",
+		"astro": "7.4.13",
 		"astro-capo": "0.0.1",
 		"astrojs-service-worker": "2.0.3",
 		"autoprefixer": "10.6.2",
@@ -54,7 +54,7 @@
 	"devDependencies": {
 		"@astrojs/ts-plugin": "1.11.0",
 		"@ianvs/prettier-plugin-sort-imports": "4.7.1",
-		"firebase-tools": "15.36.0",
+		"firebase-tools": "15.37.0",
 		"prettier": "3.10.1",
 		"prettier-plugin-astro": "1.1.2",
 		"sass": "1.108.1",
